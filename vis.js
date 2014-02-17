@@ -1,7 +1,7 @@
 //change to something else when we deploy
 //for now run by opening a terminal and typing
 //"python -m SimpleHTTPServer" in the project directory
-var host = "http://localhost:8000/"
+var host = "http://cse512-14w.github.io/a3-eamullen-tanvir/"
 
 //Mapping from appliances id to pictures
 var pic_map = {};
